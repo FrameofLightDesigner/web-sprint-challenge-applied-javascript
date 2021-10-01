@@ -52,7 +52,7 @@ import axios from 'axios';
 };
 
   const tabsAppender = async (selector) => {
-  const res = await axios.get('http://localhost:5000/api/topics')
-  const tabs = Tabs(res.data.topics)
-  document.querySelector(selector).appendChild(tabs)
-}
+  const res = await axios.get('http://localhost:5000/api/topics');
+  const tabs = Tabs(res.data.topics);
+  document.querySelector(selector).appendChild(tabs);
+};

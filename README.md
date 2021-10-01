@@ -60,7 +60,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    A programming interface for web documents. It represents the page so that programs can change the document structure, style, and content.
 2. What is an event?
+    A user interaction within a site: a click, moving the mouse, scrolling the page, pressing a key on the keyboard, these are all events on the page, and the browser can detect all of them.
 3. What is an event listener?
+    A procedure or function in a computer program that waits for an event to occur.
 4. Why would we convert a NodeList into an Array?
+    Because they have limited functionality. Making them an array makes them a bit more dynamic.
 5. What is a component?
+    Independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components.
