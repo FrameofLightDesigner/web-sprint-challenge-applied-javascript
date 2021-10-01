@@ -68,4 +68,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 4. Why would we convert a NodeList into an Array?
     Because they have limited functionality. Making them an array makes them a bit more dynamic.
 5. What is a component?
-    Independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components, in this tutorial we will concentrate on Function components.
+    Independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. Components come in two types, Class components and Function components.
